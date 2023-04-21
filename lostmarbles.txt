@@ -1,6 +1,59 @@
-# Lost_Marbles
+===========================================================================
+Title                   : Lost_Marbles
+Filename                : lostmarbles.WAD
+Advanced engine needed  : (GZDoom)
+Primary purpose         : Single.
+Author                  : Sakke Laaksonen 
+Email Address           : sakke.laaksonen@gmail.com
+Misc. Author Info       : 
 
-On his way across hell, The Doomguy runs straight into the Keep of Lost Marbles, where the Crimson Demon King holds court.
-Secrets, traps, hidden items, backtracking, Rip and Tear... Business as usual. 
+Description             : On his way across hell,  The Doomguy runs straight 
+                        : into the Keep of Lost Marbles, where the Crimson Demon King holds court.
+                        : Secrets, traps, hidden items, backtracking, Rip and Tear... Business as usual. 
+                        : Have fun, post me a speed run if you like it.
+                        : 
+                        : 
+                        : 
 
-Have fun, post me a speed run if you like it.
+Additional Credits to   : 
+===========================================================================
+
+* Information *
+
+Game                    : DOOM2 
+Map #                   : Map01
+Single Player           : Yes 
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Dehacked/BEX Patch      : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : some weeks
+Editor(s) used          : Ultimate Doom Builder
+Known Bugs              :
+May Not Run With        : 
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels but must credit the original wad author.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+Websites: 
+
+https://github.com/sakkelaaksonen/Doomination/blob/master/lostmarbles.wad?raw=true

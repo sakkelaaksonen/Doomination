@@ -1,0 +1,69 @@
+===========================================================================
+Title                   : Drool
+Filename                : drool.WAD
+Advanced engine needed  : GZDoom (Doom2 Vanilla settings)
+Primary purpose         : Single+Coop play 
+Author                  : Chaoslord
+Email Address           : sakke.laaksonen@gmail.com
+Misc. Author Info       : 
+
+Description             : Combat puzzles in tech base.
+                        : Made this map to git gud with Arch-Viles and learn more
+                        : advanced mapping techniques and vertical layout and combat building. 
+                        : Aesthetically, I like my maps to play and look like Doom. I hope to have captured 
+                        : the look and feel of OG mid-levels.
+                        : Combat may be brutal but there is always cheese if you look around.
+                        : Saving before keys is a good idea if you are a casual player.
+                        :
+                        : Difficulty: Pro casual / (so really hard at at times but still mostly easier than modern megawads)
+                        : Somewhere between TNT and Plutonia.
+                        : One large map, 15-30 mins of gameplay  
+                        :
+                        : Vanilla Doom gameplay. No jumping/crouch, no vertical look.
+                        : Hardware rendering recommended due to texture choises.  
+
+
+Additional Credits to   : Dialup for Murder for banger midis, Decino for awesome reviews and inspiration, 
+===========================================================================
+
+* Information *
+
+Game                    : DOOM2
+Map #                   : Map01
+Single Player           : Yes / No
+Cooperative 2-4 Player  : TODO
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented /UV
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Dehacked/BEX Patch      : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch. Inspired by TNT and modern projects.
+                        : TNT was half fun, Plutonia was half horrible, I wanted to to combine the two.
+Build Time              : 2 months or so, erratically
+Editor(s) used          : Ultimate Doom Buidler, Slade
+Known Bugs              : none, let me know if you find one.
+May Not Run With        : others than GZDoom. Mapinfo lump included.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels as long as the original is credited
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Websites: https://github.com/sakkelaaksonen/Doomination/
+
+

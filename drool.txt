@@ -7,19 +7,22 @@ Author                  : Chaoslord
 Email Address           : sakke.laaksonen@gmail.com
 Misc. Author Info       : 
 
-Description             : Combat puzzles in tech base.
-                        : Made this map to git gud with Arch-Viles and learn more
-                        : advanced mapping techniques and vertical layout and combat building. 
+Description             : Sneaky exploration and slaughter puzzles in tech base.
+                        : Made this map to git gud with Arch-Viles and to learn 
+                        : advanced mapping techniques and vertical layout and combat structuring as well as 
+                        : Slade stuff such as custom midi file and end screens.
+                        :
                         : Aesthetically, I like my maps to play and look like Doom. I hope to have captured 
-                        : the look and feel of OG mid-levels.
-                        : Combat may be brutal but there is always cheese if you look around.
+                        : the look and feel of OG mid-levels with a splash of my own budding style.
+                        : Combat may be brutal at times but there is always cheese if you look around.
                         : Saving before keys is a good idea if you are a casual player.
                         :
-                        : Difficulty: Pro casual / (so really hard at at times but still mostly easier than modern megawads)
-                        : Somewhere between TNT and Plutonia.
-                        : One large map, 15-30 mins of gameplay  
-                        :
-                        : Vanilla Doom gameplay. No jumping/crouch, no vertical look.
+                        : Difficulty: Pro casual / (so really hard at at times but still mostly easier than modern megawads). 
+                        : Somewhere between TNT and Plutonia. Lots of RNG involved so cheesing is not always the same.
+                        
+                        : One large map, 15-30 mins.
+                        : Vanilla Doom gameplay. No jumping/crouch, no vertical look 
+                        : ( But do what you want. that jump might save your life. )
                         : Hardware rendering recommended due to texture choises.  
 
 
@@ -33,18 +36,18 @@ Map #                   : Map01
 Single Player           : Yes / No
 Cooperative 2-4 Player  : TODO
 Deathmatch 2-4 Player   : No
-Difficulty Settings     : Not implemented /UV
+Difficulty Settings     : Not implemented / Ultra Violence
 New Sounds              : No
 New Graphics            : No
-New Music               : Yes
+New Music               : Yes - Hexenhaus Frequencies by Dialup for Murder
 Dehacked/BEX Patch      : No
 Demos Replaced          : None
 
 * Construction *
 
-Base                    : New level from scratch. Inspired by TNT and modern projects.
-                        : TNT was half fun, Plutonia was half horrible, I wanted to to combine the two.
-Build Time              : 2 months or so, erratically
+Base                    : New level from scratch. Inspired by TNT and modern megawads projects such as 10x10 and Revilution.
+                        : 
+Build Time              : 2 months or so, erratically.
 Editor(s) used          : Ultimate Doom Buidler, Slade
 Known Bugs              : none, let me know if you find one.
 May Not Run With        : others than GZDoom. Mapinfo lump included.
@@ -54,8 +57,6 @@ May Not Run With        : others than GZDoom. Mapinfo lump included.
 
 Authors MAY use this level as a base to build additional
 levels as long as the original is credited
-
-(One of the following)
 
 You MAY distribute this WAD, provided you include this file, with
 no modifications.  You may distribute this file in any electronic
@@ -67,3 +68,9 @@ intact.
 Websites: https://github.com/sakkelaaksonen/Doomination/
 
 
+
+
+** Spoilers /Tips **
+
+You can jump that fence. Just run the stairs.
+Telefrag those zappers. Or Crush them. Also, infighting is your friend.

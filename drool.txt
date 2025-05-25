@@ -34,9 +34,9 @@ Additional Credits to   : Dialup for Murder for banger midis, Decino for awesome
 Game                    : DOOM2
 Map #                   : Map01
 Single Player           : Yes 
-Cooperative 2-4 Player  : TODO
-Deathmatch 2-4 Player   : No
-Difficulty Settings     : Not implemented / Ultra Violence
+Cooperative 2-4 Player  : TODO maybe
+Deathmatch 2-4 Player   : TODO maybe
+Difficulty Settings     : Yes
 New Sounds              : No
 New Graphics            : No
 New Music               : Yes - Hexenhaus Frequencies by Dialup for Murder

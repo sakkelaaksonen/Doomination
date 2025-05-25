@@ -17,13 +17,13 @@ Description             : Sneaky exploration and slaughter puzzles in tech base.
                         : Combat may be brutal at times but there is always cheese if you look around.
                         : Saving before keys is a good idea if you are a casual player.
                         :
-                        : Difficulty: Pro casual / (so really hard at at times but still mostly easier than modern megawads). 
-                        : Somewhere between TNT and Plutonia. Lots of RNG involved so cheesing is not always the same.
+                        : Difficulty: Regular. Definitely not Sunlust. UV has some swarms and a spicy start if you holler.
+                        : 
                         
-                        : One large map, 15-30 mins.
+                        : One large map, ~30 mins.
                         : Vanilla Doom gameplay. No jumping/crouch, no vertical look 
-                        : ( But do what you want. that jump might save your life. )
-                        : Hardware rendering recommended due to texture choises.  
+                        : ( But do what you want. )
+                        : Hardware rendering recommended due to texture choises, unless you like it crunchy.  
 
 
 Additional Credits to   : Dialup for Murder for banger midis, Decino for awesome reviews and inspiration, 
